@@ -1,0 +1,1 @@
+document.body.innerHtml='<h1>Hello JS </h1>'
